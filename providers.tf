@@ -4,5 +4,8 @@ provider "aws" {
 terraform {
   backend "remote" {
     organization = "terraformtestnew"
-    workspaces {}
+    workspaces {
+      name = "terraformcloud"
+    }
+  }
   }
