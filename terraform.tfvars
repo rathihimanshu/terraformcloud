@@ -1,2 +1,5 @@
-#region = "us-east-1"
+region = "us-east-1"
 vpccidr = "10.0.0.0/16"
+region = "us-east-1"
+access = "AKIA4GQMNUJLYEETGLM7"
+secret = "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"
